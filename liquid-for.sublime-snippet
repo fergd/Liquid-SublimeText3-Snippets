@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% for %} 
+	${1} 
+{% endfor %}
+]]></content>
+	<tabTrigger>%f</tabTrigger>
+</snippet>
