@@ -21,11 +21,7 @@ Don't like the tabtrigger keys, or want to modify the snippet? Go for it.
 `%c` + `Tab` outputs `{% comment %}  {% endcomment %}`
 
 ## For
-'%f' + `Tab` outputs `
-{% for %} 
-	 
-{% endfor %}
-`
+`%f` + `Tab` outputs `{% for %} {% endfor %}`
 
 ## Generic Brackets
 `%%` + `Tab` outputs `{%  %}`
