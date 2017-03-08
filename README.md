@@ -15,3 +15,17 @@ I have not defined the `<scope>` of these snippets. If you would like to do so, 
 
 # Make it your own
 Don't like the tabtrigger keys, or want to modify the snippet? Go for it.
+
+# Contents
+## Comments
+`%c` + `Tab` outputs `{% comment %}  {% endcomment %}`
+
+## For
+'%f' + `Tab` outputs `
+{% for %} 
+	 
+{% endfor %}
+`
+
+## Generic Brackets
+`%%` + `Tab` outputs `{%  %}`
