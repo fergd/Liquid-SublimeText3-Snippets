@@ -20,6 +20,15 @@ Don't like the tabtrigger keys, or want to modify the snippet? Go for it.
 ## Comments
 `%c` + `Tab` outputs `{% comment %}  {% endcomment %}`
 
+## If
+`%if` + `Tab` outputs `{% if %} {% endif %}`  
+
+## Elsif
+`%ei` + `Tab` outputs `{% elsif %}`  
+
+## Else
+`%e` + `Tab` outputs `{% else %}`  
+
 ## For
 `%f` + `Tab` outputs `{% for %} {% endfor %}`
 
