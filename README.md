@@ -21,7 +21,7 @@ Don't like the tabtrigger keys, or want to modify the snippet? Go for it.
 `%c` + `Tab` outputs `{% comment %}  {% endcomment %}`
 
 ## If
-`%if` + `Tab` outputs `{% if %} {% endif %}`  
+`%i` + `Tab` outputs `{% if %} {% endif %}`  
 
 ## Elsif
 `%ei` + `Tab` outputs `{% elsif %}`  
