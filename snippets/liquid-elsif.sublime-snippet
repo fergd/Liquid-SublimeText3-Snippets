@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-{% elsif %} ${1}
+{% elsif ${1} %}
 ]]></content>
 	<tabTrigger>%ei</tabTrigger>
 </snippet>
